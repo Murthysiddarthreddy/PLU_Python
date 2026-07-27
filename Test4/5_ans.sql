@@ -16,6 +16,7 @@
 -- * Department Name
 -- using an INNER JOIN
 
+
 CREATE TABLE Employee (
     EmployeeID INT PRIMARY KEY,
     Name VARCHAR(100),
